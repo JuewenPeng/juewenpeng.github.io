@@ -4,6 +4,7 @@ hr {
 
 .edu-ul { padding-left: 20px; margin: 0; }
 .edu-ul li { margin-bottom: 6px; }
+.edu-ul li a { color: black; }
 
 .pub-figure { width: 26%; padding-left: 2%; padding-right: 5%; display:inline-block; vertical-align: middle; }
 .pub-figure img { width: 100%; }
